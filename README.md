@@ -29,7 +29,7 @@ pip install opencv-python mediapipe numpy
 3. Run the game using Python:
 
    ```bash
-   python Main.py
+   python main.py
    ```
 
 4. Allow access to your webcam when prompted.
