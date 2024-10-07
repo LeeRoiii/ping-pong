@@ -1,6 +1,5 @@
-Sure! Here's a sample README for your volleyball game project using OpenCV and MediaPipe:
 
----
+
 
 # Volleyball Game
 
@@ -62,6 +61,4 @@ pip install opencv-python mediapipe numpy
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to modify any part of this README to better fit your project or add additional information!
